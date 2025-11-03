@@ -1,0 +1,156 @@
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\bin\Debug\net9.0\appsettings.json
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\bin\Debug\net9.0\ToDo_APP.staticwebassets.runtime.json
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\bin\Debug\net9.0\ToDo_APP.staticwebassets.endpoints.json
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\bin\Debug\net9.0\ToDo_APP.exe
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\bin\Debug\net9.0\ToDo_APP.deps.json
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\bin\Debug\net9.0\ToDo_APP.runtimeconfig.json
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\bin\Debug\net9.0\ToDo_APP.dll
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\bin\Debug\net9.0\ToDo_APP.pdb
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\ToDo_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\ToDo_APP.AssemblyInfoInputs.cache
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\ToDo_APP.AssemblyInfo.cs
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\ToDo_APP.csproj.CoreCompileInputs.cache
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\ToDo_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\scopedcss\bundle\ToDo_APP.styles.css
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\scopedcss\projectbundle\ToDo_APP.bundle.scp.css
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\jxxbwwjwgc-khy4lop6wu.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\mih9azc95e-bqjiyaj88i.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\cw62r27056-c2jlpeoesf.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\ngsi7gv745-erw9l3u2r3.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\8fbrrb7mh0-aexeepp0ev.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\zzg9a99cam-d7shbmvgxk.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\ug3nkif0qt-ausgxo2sd3.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\iwn476jgz4-k8d9w2qqmf.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\vgp9m5jimo-cosvhxvwiu.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\affa9k3pb6-ub07r2b239.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\esc16ohyde-fvhpjtyr6v.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\54rq9wfmp6-b7pk76d08c.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\5i8q80yxrn-fsbi9cje9m.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\uvgrgo3hne-rzd6atqjts.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\brso71e5ys-ee0r1s7dh0.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\d4vcc7yp9y-dxx9fxp4il.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\awg4igk1wh-jd9uben2k1.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\owro47g244-khv3u5hwcm.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\j3i7ufgksb-r4e9w2rdcm.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\uslwtew4yw-lcd1t2u6c8.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\uszv9gxgd7-c2oey78nd0.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\2bwa0k1iot-tdbxkamptv.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\z8ucibgtok-j5mq2jizvt.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\j0h6tkfcwd-06098lyss8.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\x85uspagoj-nvvlpmu67g.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\w2qfelka1q-s35ty4nyc5.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\yg4hrnsfb5-pj5nd1wqec.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\k4zjdunloe-46ein0sx1k.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\mk80v2tfr3-v0zj4ognzu.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\bfnnc9i4kz-37tfw0ft22.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\1vdummqni9-hrwsygsryq.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\nlv0rfp0fa-pk9g2wxc8p.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\tvu5n66txf-ft3s53vfgj.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\qk1m7d4eb0-6cfz1n2cew.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\5z7uaer0ei-6pdc2jztkx.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\agaojkuh7r-493y06b0oq.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\wwj4ayoczu-iovd86k7lj.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\a84fv5elrj-vr1egmr9el.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\503xp6xw44-kbrnm935zg.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\ubvmsmy2ay-jj8uyg4cgr.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\m6mno6n3ai-y7v9cxd14o.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\2ovul9wcq2-notf2xhcfb.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\trc4md1vv1-h1s4sie4z3.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\d3vrwon0ia-63fj8s7r0e.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\qrj9gb3lbf-0j3bgjxly4.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\iow8cgimmy-pbra9m79ii.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\compressed\u5umhwwwd0-pbra9m79ii.gz
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\ToDo_APP.dll
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\refint\ToDo_APP.dll
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\ToDo_APP.pdb
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\ToDo_APP.genruntimeconfig.cache
+C:\Users\AbhiRam\.Net-C#\ToDo_APP\obj\Debug\net9.0\ref\ToDo_APP.dll
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\bin\Debug\net9.0\appsettings.json
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\bin\Debug\net9.0\ToDo_APP.staticwebassets.runtime.json
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\bin\Debug\net9.0\ToDo_APP.staticwebassets.endpoints.json
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\bin\Debug\net9.0\ToDo_APP.exe
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\bin\Debug\net9.0\ToDo_APP.deps.json
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\bin\Debug\net9.0\ToDo_APP.runtimeconfig.json
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\bin\Debug\net9.0\ToDo_APP.dll
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\bin\Debug\net9.0\ToDo_APP.pdb
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\ToDo_APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\ToDo_APP.AssemblyInfoInputs.cache
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\ToDo_APP.AssemblyInfo.cs
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\ToDo_APP.csproj.CoreCompileInputs.cache
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\ToDo_APP.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\scopedcss\Components\Layout\MainLayout.razor.rz.scp.css
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\scopedcss\Components\Layout\NavMenu.razor.rz.scp.css
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\scopedcss\bundle\ToDo_APP.styles.css
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\scopedcss\projectbundle\ToDo_APP.bundle.scp.css
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\jxxbwwjwgc-khy4lop6wu.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\mih9azc95e-bqjiyaj88i.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\cw62r27056-c2jlpeoesf.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\ngsi7gv745-erw9l3u2r3.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\8fbrrb7mh0-aexeepp0ev.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\zzg9a99cam-d7shbmvgxk.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\ug3nkif0qt-ausgxo2sd3.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\iwn476jgz4-k8d9w2qqmf.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\vgp9m5jimo-cosvhxvwiu.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\affa9k3pb6-ub07r2b239.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\esc16ohyde-fvhpjtyr6v.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\54rq9wfmp6-b7pk76d08c.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\5i8q80yxrn-fsbi9cje9m.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\uvgrgo3hne-rzd6atqjts.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\brso71e5ys-ee0r1s7dh0.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\d4vcc7yp9y-dxx9fxp4il.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\awg4igk1wh-jd9uben2k1.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\owro47g244-khv3u5hwcm.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\j3i7ufgksb-r4e9w2rdcm.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\uslwtew4yw-lcd1t2u6c8.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\uszv9gxgd7-c2oey78nd0.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\2bwa0k1iot-tdbxkamptv.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\z8ucibgtok-j5mq2jizvt.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\j0h6tkfcwd-06098lyss8.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\x85uspagoj-nvvlpmu67g.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\w2qfelka1q-s35ty4nyc5.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\yg4hrnsfb5-pj5nd1wqec.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\k4zjdunloe-46ein0sx1k.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\mk80v2tfr3-v0zj4ognzu.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\bfnnc9i4kz-37tfw0ft22.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\1vdummqni9-hrwsygsryq.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\nlv0rfp0fa-pk9g2wxc8p.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\tvu5n66txf-ft3s53vfgj.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\qk1m7d4eb0-6cfz1n2cew.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\5z7uaer0ei-6pdc2jztkx.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\agaojkuh7r-493y06b0oq.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\wwj4ayoczu-iovd86k7lj.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\a84fv5elrj-vr1egmr9el.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\503xp6xw44-kbrnm935zg.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\ubvmsmy2ay-jj8uyg4cgr.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\m6mno6n3ai-y7v9cxd14o.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\2ovul9wcq2-notf2xhcfb.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\trc4md1vv1-h1s4sie4z3.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\d3vrwon0ia-63fj8s7r0e.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\qrj9gb3lbf-0j3bgjxly4.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\iow8cgimmy-hscnodsag8.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\compressed\u5umhwwwd0-hscnodsag8.gz
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\ToDo_APP.dll
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\refint\ToDo_APP.dll
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\ToDo_APP.pdb
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\ToDo_APP.genruntimeconfig.cache
+C:\Users\Amarnath kolla\.Net-Project\ToDo_APP\ToDo_APP\obj\Debug\net9.0\ref\ToDo_APP.dll
